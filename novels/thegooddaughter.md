@@ -18,19 +18,19 @@ The story of "The Good Daughter" was written in early April 2025 and precedes th
 
 The first part, titled "Before She Drown", tells the story of 14-year-old Anlá, the son of a fisherman. During a spring festival, while riding his boat down the river, he witnesses an eight-year-old girl who is participating in the festival fall into the water. Without hesitation, Anlá rushes to her aid, pulls her to shore, and, without expecting any praise or gratitude, returns to his boat.
 
-The second part, entitled "Personal Magdalene", completely ignores the events described in the first and focuses on Lyne, a student in his twenties, who, on October 9, while sitting in his apartment, enviously remembers Cyrus, the lead singer of a rock band, whose performance he attended only three days ago. The hatred of this successful musician prompts Laine to direct his negative emotions towards an object, and he ends up imagining in his apartment a little girl whom he considers his daughter, on whom he acts out his anger, transformed into a distorted love.
+The second part, entitled "Personal Magdalene", completely ignores the events described in the first and focuses on Lyne, a student in his twenties, who, on October 9, while sitting in his apartment, enviously remembers Cyrus, the lead singer of a rock band, whose performance he attended only three days ago. The hatred of this successful musician prompts Lyne to direct his negative emotions towards an object, and he ends up imagining in his apartment a little girl whom he considers his daughter, on whom he acts out his anger, transformed into a distorted love.
 
 ## Characters
 
 - **Anlá** - A teenager who was swimming in a certain river during a spring festival. By chance, he became the unwitting savior of a little girl.
 - **Lyne** - A young student, struggling financially and suffering from alcohol addiction, begins to indulge in irrational fantasies after meeting a rock musician who makes him envious, creating an image of a non-existent daughter. This behavior becomes an alarming signal about the possible development of schizophrenia.
 - **Molly** - An eight-year-old girl who was rescued by Anlá and returned to her mother in the first story, and in the second appears as a fictional image created by Lyne in his dreams about his daughter.
-- **Cyrus** - The lead singer of a rock band that performed a concert in the city where Line lived on October 6. He is presented as a successful person whose achievements make Line, who is in a difficult situation, envious.
+- **Cyrus** - The lead singer of a rock band that performed a concert in the city where Lyne lived on October 6. He is presented as a successful person whose achievements make Line, who is in a difficult situation, envious.
 
 
 ## Significance
 
-This novel is an introduction to the world of the upcoming game, in which the main characters - Molly and Lyne - are revealed in detail. The work gives an idea of ​​their characters, motives and goals, and also outlines key moments of their further development. In addition, through the description of events and the surrounding environment, a general view of the world in which the characters live is created, with its social, cultural and political structure. The stories told allow us to understand what factors will influence the decisions of the heroes and their relationships, as well as the development of events in the future.
+This novel is an introduction to the world of the upcoming game, in which the main characters - Molly and Lyne - are revealed in detail. The work gives an idea of their characters, motives and goals, and also outlines key moments of their further development. In addition, through the description of events and the surrounding environment, a general view of the world in which the characters live is created, with its social, cultural and political structure. The stories told allow us to understand what factors will influence the decisions of the heroes and their relationships, as well as the development of events in the future.
 
 ## Trivia
 
@@ -42,4 +42,4 @@ This novel is an introduction to the world of the upcoming game, in which the ma
 
 - Rock star Cyrus' name is a multi-layered reference, simultaneously reminiscent of the great Persian king Cyrus the Great and modern-day singer Miley Cyrus
 
-- Lyne's name is a reference to the surname of famous director Adrian Lyne, whose works, in particular the film Jacob's Ladder, had a significant influence on the development of the cult Silent Hill franchise.
+- Lyne's name is a reference to the surname of famous director Adrian Lyne, whose works, in particular the film ''Jacob's Ladder'', had a significant influence on the development of the cult ''Silent Hill'' franchise.
