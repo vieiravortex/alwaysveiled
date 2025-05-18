@@ -6,9 +6,14 @@ The *Always Veiled Wiki* is a collaborative wiki dedicated to the independent ga
 
 ## Get Started
 
+![Cover](prototypecover.jpg)
+
+- **NEW!!!** Spend a few minutes with a casual prototype: [**Always Veiled (*Prototype v18.05.1982*)**](prototype.md)
 - Learn more about the game project: [*Always Veiled*](alwaysveiled.md)
 - Discover the developers: [*Vieira Vortex*](vieiravortex.md)
 - Listen the main theme title: [*No Longer Do I Live*](music/nolongerdoilive.md)
+- Read the short prequel novels:  [*The Good Daughter*](novels/thegooddaughter.md) and [*I Have the Honor*](novels/ihavethehonor.md)
+
 
 ## About the Wiki
 
